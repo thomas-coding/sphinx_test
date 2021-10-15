@@ -12,6 +12,7 @@ Welcome to sphinx_test's documentation!
 
    hello
    wiki_test
+   rst_test
 
 Indices and tables
 ==================
@@ -19,3 +20,9 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+1111
+.. image:: 1.png
+2222
+.. figure:: 1.png
+333
