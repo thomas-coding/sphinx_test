@@ -6,8 +6,12 @@
 Welcome to sphinx_test's documentation!
 =======================================
 
+Contents:
+
 .. toctree::
-   hello/hello.md
+   :maxdepth: 2
+   :caption: Contents:
+   hello
 
 
 Indices and tables
