@@ -11,6 +11,7 @@ Welcome to sphinx_test's documentation!
    :caption: Contents:
 
    hello
+   wiki_test
 
 Indices and tables
 ==================
