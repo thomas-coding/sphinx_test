@@ -5,6 +5,7 @@ Hello world
 mark down ...
 ```
 
+.. image:: 1.png
 
 ## Next title
 ```
