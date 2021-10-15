@@ -6,13 +6,11 @@
 Welcome to sphinx_test's documentation!
 =======================================
 
-Contents:
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   hello
 
+   hello
 
 Indices and tables
 ==================
