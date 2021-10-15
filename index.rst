@@ -7,7 +7,7 @@ Welcome to sphinx_test's documentation!
 =======================================
 
 .. toctree::
-   hello/hello
+   hello/hello.md
 
 
 Indices and tables
