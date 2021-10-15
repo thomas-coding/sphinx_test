@@ -12,7 +12,7 @@ Welcome to sphinx_test's documentation!
 
    hello
    wiki_test
-   rst_test
+   introduction/index
 
 Indices and tables
 ==================
